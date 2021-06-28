@@ -1,6 +1,6 @@
 # Car Price predictor 
-Objective
-Techniques Used
+   Objective
+ Techniques Used
 Data Cleaning
 Data Visualization
 Machine Learning Modeling
