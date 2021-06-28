@@ -2,7 +2,8 @@
 
 * A flask web app that predict the selling price of used car.
 
-* it uses machine learning models such as random forest regressor,randomized searchcv .
+* it uses machine learning models such as random forest regressor,randomized searchcv to predict the selling price of car.
+
 ## Attributes
 * Name: The brand and model of the car.
 
