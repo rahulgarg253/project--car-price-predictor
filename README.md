@@ -1,5 +1,5 @@
 # Car Price predictor 
-a flask web app that predict the price of used car.
+a flask web app that predict the selling price of used car.
 
 it uses machine learning models such as random forest regressor,randomized searchcv .
 ## Attributes
