@@ -6,43 +6,43 @@
 ## Attributes
 * Name: The brand and model of the car.
 
-Year: The year or edition of the model.
+* Year: The year or edition of the model.
 
-Kilometers_Driven: The total kilometres driven in the car by the previous owner(s) in KM.
+* Kilometers_Driven: The total kilometres driven in the car by the previous owner(s) in KM.
 
-Fuel_Type: The type of fuel used by the car 
+* Fuel_Type: The type of fuel used by the car 
 
-Transmission: The type of transmission used by the car.
+* Transmission: The type of transmission used by the car.
 
-Owner_Type: Whether the ownership is Firsthand, Second hand or other.
+* Owner_Type: Whether the ownership is Firsthand, Second hand or other.
 
-show room Price: The price of the used car in INR Lakhs.
+* show room Price: The price of the used car in INR Lakhs.
 
 
 
 ## Techniques Used
 
-Data Cleaning
+* Data Cleaning
 
-Data Visualization
+* Data Visualization
 
-Machine Learning Modeling
+ * Machine Learning Modeling
 
 ## Packages and Tools Required:
-Pandas 
+* Pandas 
 
-Matplotlib
+* Matplotlib
 
-Scikit Learn
+* Scikit Learn
 
-Jupyter Notebook
+* Jupyter Notebook
 
   
 ![image](https://user-images.githubusercontent.com/79282753/123615495-fc669100-d822-11eb-9b74-122a41651dc8.png)
 
 r2_score 
 
-0.92
+* 0.92
 
 
 
