@@ -1,8 +1,11 @@
 # Car Price predictor 
 
 ## Techniques Used
+
 ####Data Cleaning
+
 ####Data Visualization
+
 ####Machine Learning Modeling
 
   
